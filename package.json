@@ -1,6 +1,6 @@
 {
   "name": "on-wss",
-  "version": "0.1.9",
+  "version": "0.2.0",
   "description": "OnRack Http Server",
   "main": "index.js",
   "scripts": {
